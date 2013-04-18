@@ -1,0 +1,8 @@
+gohack - a Rogue-like game written in Go
+
+This is just for fun. So far, you can launch it, it generates a random
+level, and you can walk around. That's it. There's some infrastructure
+for monsters/species/etc, but nothing really happens yet.
+
+I don't really think the world needs another Rogue-like... but then,
+I've never written one. :-)
